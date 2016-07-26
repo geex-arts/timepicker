@@ -1,0 +1,28 @@
+
+{
+	"name": "timepicker",
+	"version": "0.3.3",
+	"title": "jquery-timepicker",
+	"author": {
+		"name": "François Gélinas",
+		"url": "https://github.com/fgelinas"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"jquery": ">=1.5.1"
+	},
+	"main": "jquery.ui.timepicker.js",
+	"description": "A jQuery timepicker plugin",
+	"keywords": [ "timepicker", "time", "picker", "ui", "google calendar" ],
+	"homepage": "https://fgelinas.com/code/timepicker/",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fgelinas/timepicker.git"
+	},
+	"bugs": {
+		"url": "https://github.com/fgelinas/timepicker/issues"
+	}
+}
